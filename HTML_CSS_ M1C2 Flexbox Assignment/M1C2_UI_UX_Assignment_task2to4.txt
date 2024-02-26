@@ -1,0 +1,33 @@
+Task Two: Use one of the following websites and the inspect tool to identify 2-3 colors used repeatedly as part of the site’s color scheme. Remember that different shades of gray and black can be included as a color.
+
+Al inspeccionar la web https://timmyomahony.com/ ,  podemos identificar los siguientes colores utilizados de forma repetida y consistente:
+
+#FFFFFF (Blanco): Este se usa en varios sitios, como --tw-ring-offset-color, --tw-shadow, --tw-bg-opacity, etc. También se utiliza para las propiedades personalizadas --toastify-color-light y --toastify-text-color-light. Suele alternarse con beige, sobre todo en los fondos.
+
+#242424 (Negro): Este color se utiliza en las propiedades personalizadas --tw-bg-opacity y --tw-text-opacity.
+
+#3B82F6 (Azul): Este color se utiliza en la propiedad personalizada --tw-ring-color.
+
+
+
+Task Three: Create a user story by referencing one of these websites
+Twitter https://twitter.com/home?lang=en
+Youtube https://www.youtube.com/
+Facebook https://www.facebook.com/ 
+Google https://www.google.com/ 
+
+Para el caso de un usuario standard de Twitter: Como entusiasta de las redes sociales, quisiera compartir mis pensamientos, actualizaciones y relacionarme con los demás en tiempo real a través de mensajes cortos (tweets), para poder mantenerme en contacto con mis amigos, seguir a mis famosos favoritos y participar en las conversaciones de moda.
+
+
+
+Task Four: Identify the prime objective of Facebook, Twitter, Google, and Youtube.
+
+Los objetivos primordiales para cada caso serían:
+
+Facebook: Conectar a la gente globalmente y facilitar las interacciones sociales.
+
+Twitter: Promover comunicación e intercambio de información en tiempo real.
+
+Google: Organizar la información mundial y hacerla accesible universalmente.
+
+YouTube: Proporcionar a los usuarios una plataforma para descubrir, ver y compartir contenido de video online.
